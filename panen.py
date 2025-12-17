@@ -1,9 +1,13 @@
-<<<<<<< HEAD
+
+
 # Program pengolahan data panen - MASTER
-=======
+
 # Program pengolahan data panen
 # Program pengolahan data panen - BARU
->>>>>>> Baru
+
+
+# Perubahan di branch Baru
+
 
 data_panen = {
     'lokasi1': {
