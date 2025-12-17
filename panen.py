@@ -1,5 +1,5 @@
 
-
+# Ini kode punya Main
 # Program pengolahan data panen - MASTER
 
 # Program pengolahan data panen
