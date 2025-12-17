@@ -1,5 +1,4 @@
-# Program pengolahan data panen
-# Program pengolahan data panen - BARU
+# Perubahan di branch Baru
 
 data_panen = {
     'lokasi1': {
