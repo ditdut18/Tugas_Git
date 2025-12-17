@@ -73,6 +73,8 @@ kedelai_lokasi5 = data_panen["lokasi5"]["hasil_panen"]["kedelai"]
 for kode_lokasi, info in data_panen.items():
     padi = info["hasil_panen"]["padi"]
     jagung = info["hasil_panen"]["jagung"]
+    
+# Perubahan di branch Baru
 
     if padi > 1300 or jagung > 800:
         print(info["nama_lokasi"], "memerlukan perhatian khusus")
