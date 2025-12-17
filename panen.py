@@ -1,4 +1,6 @@
 # Program pengolahan data panen
+# Program pengolahan data panen - BARU
+
 data_panen = {
     'lokasi1': {
         'nama_lokasi': 'Kebun A',
@@ -74,7 +76,6 @@ for kode_lokasi, info in data_panen.items():
     padi = info["hasil_panen"]["padi"]
     jagung = info["hasil_panen"]["jagung"]
     
-# Perubahan di branch Baru
 
     if padi > 1300 or jagung > 800:
         print(info["nama_lokasi"], "memerlukan perhatian khusus")
