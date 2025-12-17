@@ -1,4 +1,4 @@
-# Program pengolahan data panen
+# Program pengolahan data panen (versi master)
 data_panen = {
     'lokasi1': {
         'nama_lokasi': 'Kebun A',
