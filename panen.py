@@ -1,15 +1,5 @@
 
 
-# Ini kode punya Main
-# Program pengolahan data panen - MASTER
-
-# Program pengolahan data panen
-# Program pengolahan data panen - BARU
-
-
-# Ini kode punya Branch Baru
-
-# Perubahan di branch Baru
 
 
 data_panen = {
